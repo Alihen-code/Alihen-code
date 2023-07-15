@@ -1,12 +1,10 @@
-- 👋 Hi, I’m  Awais - @Alihen-code
-- IM a software engineering student at virtual university of pakistan 
-- Im currently in my 4th semester of BSSE 
-- 👀 I’m interested in software engineering and web development ...
-- 🌱 I’m currently learning assembly language in my university and c++ through youtube tutorials  ...
-- 💞️ I’m looking to collaborate on some projects in the fututre as im still learning but id love to collab with my fellow developers when 
-- im done with mastering my language and have enough knowledge on some projects  ...
-- 📫 How to reach me :you can reach me on my gmail ->softwaredungeon67@gmail.com ...
+- 👋 Greetings, I am Awais, known as @Alihen-code. I am a diligent software engineering student enrolled at Virtual University of Pakistan. Currently, I am in the fourth semester of my BSSE program.
 
+- 🌐 My primary focus lies in the realm of web development, where I am keenly interested. Additionally, I am pursuing in-depth knowledge of assembly language as part of my university curriculum. To further enhance my skills, I am also actively learning C++ through informative tutorials available on YouTube.
+
+- 📧 If you wish to connect with me, please feel free to reach out via my Gmail address: softwaredungeon67@gmail.com.
+
+- Thank you for your kind attention.
 <!---
 Alihen-code/Alihen-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
