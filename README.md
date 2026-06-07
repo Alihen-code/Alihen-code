@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning html &css, bootstrap,js,jquery,php,mysql<br>🎯 Goals: completing 100 days of code starting after my finals <br>🎲 Fun fact: im not very good at jokes</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning html &css, bootstrap,js,jquery,php,mysql<br>🎯 Goals: completing 100 days of code starting after my finals <br>🎲 Fun fact: im a wannaBe weeb</p>
 
 ###
 
