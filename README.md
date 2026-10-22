@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm currently completing the HTML and CSS curriculum on freeCodeCamp while continuously strengthening my front-end development skills through hands-on practice. My goal is to build unique, creative projects that go beyond tutorials and demonstrate real-world problem-solving.<br><br>I'm also looking to deepen my knowledge of advanced JavaScript and backend development, using resources like freeCodeCamp, YouTube, and official documentation.<br><br>As a self-taught developer, I enjoy learning by building. I'm always exploring new technologies, experimenting with different tools, and expanding my skill set through practical projects.<br><br>Feel free to ask me about web development, programming, computers, or technology—I enjoy discussing, learning, and sharing knowledge with others.<br><br>**Fun Fact:** I'm a "jack of all trades." I love exploring a wide variety of fields, which has given me a broad understanding of many topics and a curiosity that keeps me learning something new every day.<br>
+I’m currently completing the Python certification on freeCodeCamp while continuously strengthening my programming skills through hands-on practice. My goal is to build unique, creative projects that go beyond tutorials and demonstrate real-world problem-solving.
+
+I’m also looking to deepen my knowledge of advanced JavaScript and backend development, using resources like freeCodeCamp, YouTube, and official documentation.
+
+As a self-taught developer, I enjoy learning by building. I’m always exploring new technologies, experimenting with different tools, and expanding my skill set through practical projects.
+
+Feel free to ask me about Python, programming, computers, or technology—I enjoy discussing, learning, and sharing knowledge with others.
+
+Fun Fact: I’m a “jack of all trades.” I love exploring a wide variety of fields, which has given me a broad understanding of many topics and a curiosity that keeps me learning something new every day.
 
 
 
