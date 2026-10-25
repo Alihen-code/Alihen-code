@@ -1,7 +1,6 @@
 # 💫 About Me:
 I’m currently completing the Python certification on freeCodeCamp while continuously strengthening my programming skills through hands-on practice. My goal is to build unique, creative projects that go beyond tutorials and demonstrate real-world problem-solving.
 
-I’m also looking to deepen my knowledge of advanced JavaScript and backend development, using resources like freeCodeCamp, YouTube, and official documentation.
 
 As a self-taught developer, I enjoy learning by building. I’m always exploring new technologies, experimenting with different tools, and expanding my skill set through practical projects.
 
